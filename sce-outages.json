@@ -5,7 +5,7 @@
     "FACJobStatusCode": "F",
     "OANNumber": "987304",
     "outageStartDateTime": "7/7/2019 12:26:01 AM",
-    "versionDate": "7/7/2019 7:52:05 PM",
+    "versionDate": "7/7/2019 8:07:07 PM",
     "lastChangeDateTime": "7/7/2019 11:45:00 AM",
     "estimateCLUDateTime": "7/7/2019 10:00:00 PM",
     "memoCauseCode": "08",
@@ -25,18 +25,18 @@
     "centroidY": "33.989735250024"
   },
   {
-    "incidentId": "121629210",
+    "incidentId": "121629223",
     "incidentType": "Not Available",
-    "FACJobStatusCode": "F",
-    "OANNumber": "987471",
-    "outageStartDateTime": "7/7/2019 7:34:56 PM",
-    "versionDate": "7/7/2019 7:52:05 PM",
-    "lastChangeDateTime": "7/7/2019 7:43:03 PM",
-    "estimateCLUDateTime": "Most up by 7/7/2019 10:00:00 PM",
+    "FACJobStatusCode": "A",
+    "OANNumber": "987472",
+    "outageStartDateTime": "7/7/2019 7:55:34 PM",
+    "versionDate": "7/7/2019 8:07:07 PM",
+    "lastChangeDateTime": "7/7/2019 7:58:07 PM",
+    "estimateCLUDateTime": "Most up by 7/7/2019 10:30:00 PM",
     "memoCauseCode": "15",
     "memoCauseCodeDescription": "Analyzing Problem",
-    "crewStatusCode": "10",
-    "crewStatusCodeDescription": "We are testing the lines to help limit the number of customers affected.",
+    "crewStatusCode": "01",
+    "crewStatusCodeDescription": "We are aware of the problem.",
     "resultCode": "0",
     "resultCodeDesription": "Not Available",
     "numberOfCustomersAffected": "150",
@@ -46,7 +46,7 @@
     "districtNumber": "51",
     "sectorNumber": "SAN JOAQUIN",
     "ERTCode": "05",
-    "centroidX": "-118.529948301085",
-    "centroidY": "36.10410899544640"
+    "centroidX": "-118.529504583926",
+    "centroidY": "36.10399676911490"
   }
 ]
