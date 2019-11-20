@@ -5,7 +5,7 @@
     "FACJobStatusCode": "D",
     "OANNumber": "1021247",
     "outageStartDateTime": "11/19/2019 8:02:02 PM",
-    "versionDate": "11/19/2019 8:18:02 PM",
+    "versionDate": "11/19/2019 8:27:55 PM",
     "lastChangeDateTime": "11/19/2019 8:03:43 PM",
     "estimateCLUDateTime": "11/20/2019 5:00:00 AM",
     "memoCauseCode": "21",
@@ -30,7 +30,7 @@
     "FACJobStatusCode": "D",
     "OANNumber": "1007930",
     "outageStartDateTime": "11/19/2019 8:00:00 AM",
-    "versionDate": "11/19/2019 8:18:02 PM",
+    "versionDate": "11/19/2019 8:27:55 PM",
     "lastChangeDateTime": "11/19/2019 6:40:27 PM",
     "estimateCLUDateTime": "11/20/2019 2:00:00 AM",
     "memoCauseCode": "21",
@@ -46,8 +46,8 @@
     "districtNumber": "40",
     "sectorNumber": "ARROWHEAD",
     "ERTCode": "07",
-    "centroidX": "-117.222744775190",
-    "centroidY": "34.24319929420660"
+    "centroidX": "-117.222744780457",
+    "centroidY": "34.24319917427630"
   },
   {
     "incidentId": "122022733",
@@ -55,7 +55,7 @@
     "FACJobStatusCode": "F",
     "OANNumber": "1022413",
     "outageStartDateTime": "10/31/2019 7:26:28 PM",
-    "versionDate": "11/19/2019 8:18:02 PM",
+    "versionDate": "11/19/2019 8:27:55 PM",
     "lastChangeDateTime": "11/19/2019 1:29:33 PM",
     "estimateCLUDateTime": "Not Available",
     "memoCauseCode": "08",
@@ -71,8 +71,8 @@
     "districtNumber": "39",
     "sectorNumber": "SANTA CLARA",
     "ERTCode": "02",
-    "centroidX": "-119.031776287376",
-    "centroidY": "34.33607812655530"
+    "centroidX": "-119.031776210607",
+    "centroidY": "34.33607966502010"
   },
   {
     "incidentId": "122035281",
@@ -80,8 +80,8 @@
     "FACJobStatusCode": "F",
     "OANNumber": "1023563",
     "outageStartDateTime": "11/19/2019 4:21:44 PM",
-    "versionDate": "11/19/2019 8:18:02 PM",
-    "lastChangeDateTime": "11/19/2019 8:05:12 PM",
+    "versionDate": "11/19/2019 8:27:55 PM",
+    "lastChangeDateTime": "11/19/2019 8:18:48 PM",
     "estimateCLUDateTime": "Most up by 11/20/2019 4:30:00 AM",
     "memoCauseCode": "16",
     "memoCauseCodeDescription": "Equipment Problems",
@@ -96,8 +96,8 @@
     "districtNumber": "73",
     "sectorNumber": "LUGO",
     "ERTCode": "08",
-    "centroidX": "-117.243497499084",
-    "centroidY": "34.46765750093710"
+    "centroidX": "-117.243495999150",
+    "centroidY": "34.46768175093520"
   },
   {
     "incidentId": "122035464",
@@ -105,8 +105,8 @@
     "FACJobStatusCode": "F",
     "OANNumber": "1023569",
     "outageStartDateTime": "11/19/2019 5:13:50 PM",
-    "versionDate": "11/19/2019 8:18:02 PM",
-    "lastChangeDateTime": "11/19/2019 8:03:37 PM",
+    "versionDate": "11/19/2019 8:27:55 PM",
+    "lastChangeDateTime": "11/19/2019 8:24:50 PM",
     "estimateCLUDateTime": "Most up by 11/20/2019 2:30:00 AM",
     "memoCauseCode": "19",
     "memoCauseCodeDescription": "Animal in Equipment",
@@ -121,8 +121,8 @@
     "districtNumber": "35",
     "sectorNumber": "MOORPARK",
     "ERTCode": "05",
-    "centroidX": "-118.842857476360",
-    "centroidY": "34.03680462993940"
+    "centroidX": "-118.842857591787",
+    "centroidY": "34.03680572608920"
   },
   {
     "incidentId": "122035537",
@@ -130,8 +130,8 @@
     "FACJobStatusCode": "F",
     "OANNumber": "1023580",
     "outageStartDateTime": "11/19/2019 5:45:17 PM",
-    "versionDate": "11/19/2019 8:18:02 PM",
-    "lastChangeDateTime": "11/19/2019 7:57:32 PM",
+    "versionDate": "11/19/2019 8:27:55 PM",
+    "lastChangeDateTime": "11/19/2019 8:16:06 PM",
     "estimateCLUDateTime": "Most up by 11/20/2019 3:00:00 AM",
     "memoCauseCode": "16",
     "memoCauseCodeDescription": "Equipment Problems",
@@ -155,7 +155,7 @@
     "FACJobStatusCode": "F",
     "OANNumber": "1023585",
     "outageStartDateTime": "11/19/2019 7:04:00 PM",
-    "versionDate": "11/19/2019 8:18:02 PM",
+    "versionDate": "11/19/2019 8:27:55 PM",
     "lastChangeDateTime": "11/19/2019 7:45:20 PM",
     "estimateCLUDateTime": "Currently Being Re-evaluated",
     "memoCauseCode": "15",
@@ -180,7 +180,7 @@
     "FACJobStatusCode": "W",
     "OANNumber": "1020168",
     "outageStartDateTime": "11/18/2019 9:05:00 AM",
-    "versionDate": "11/19/2019 8:18:02 PM",
+    "versionDate": "11/19/2019 8:27:55 PM",
     "lastChangeDateTime": "11/19/2019 5:33:48 PM",
     "estimateCLUDateTime": "11/22/2019 4:00:00 PM",
     "memoCauseCode": "07",
@@ -196,8 +196,8 @@
     "districtNumber": "50",
     "sectorNumber": "BIG CREEK",
     "ERTCode": "07",
-    "centroidX": "-119.293658099226",
-    "centroidY": "37.11484738669640"
+    "centroidX": "-119.293649350113",
+    "centroidY": "37.11484044896360"
   },
   {
     "incidentId": "121838792",
@@ -205,7 +205,7 @@
     "FACJobStatusCode": "D",
     "OANNumber": "1007924",
     "outageStartDateTime": "11/19/2019 8:00:00 AM",
-    "versionDate": "11/19/2019 8:18:02 PM",
+    "versionDate": "11/19/2019 8:27:55 PM",
     "lastChangeDateTime": "11/19/2019 6:40:00 PM",
     "estimateCLUDateTime": "Most up by 11/20/2019 2:00:00 AM",
     "memoCauseCode": "21",
@@ -221,8 +221,8 @@
     "districtNumber": "40",
     "sectorNumber": "ARROWHEAD",
     "ERTCode": "09",
-    "centroidX": "-117.287950123258",
-    "centroidY": "34.24465728267050"
+    "centroidX": "-117.287950123779",
+    "centroidY": "34.24465724588990"
   },
   {
     "incidentId": "122004895",
@@ -230,7 +230,7 @@
     "FACJobStatusCode": "D",
     "OANNumber": "1020790",
     "outageStartDateTime": "11/19/2019 8:03:29 PM",
-    "versionDate": "11/19/2019 8:18:02 PM",
+    "versionDate": "11/19/2019 8:27:55 PM",
     "lastChangeDateTime": "11/19/2019 8:03:52 PM",
     "estimateCLUDateTime": "11/20/2019 5:00:00 AM",
     "memoCauseCode": "21",
