@@ -5,7 +5,7 @@
     "FACJobStatusCode": "A",
     "OANNumber": "1138281",
     "outageStartDateTime": "1/17/2021 3:58:44 PM",
-    "versionDate": "1/18/2021 7:20:27 AM",
+    "versionDate": "1/18/2021 8:00:40 AM",
     "lastChangeDateTime": "1/18/2021 3:58:32 AM",
     "estimateCLUDateTime": "Most up by 1/18/2021 9:00:00 AM",
     "memoCauseCode": "16",
@@ -30,7 +30,7 @@
     "FACJobStatusCode": "A",
     "OANNumber": "1138293",
     "outageStartDateTime": "1/17/2021 7:51:09 PM",
-    "versionDate": "1/18/2021 7:20:27 AM",
+    "versionDate": "1/18/2021 8:00:40 AM",
     "lastChangeDateTime": "1/18/2021 3:59:49 AM",
     "estimateCLUDateTime": "Most up by 1/18/2021 9:00:00 AM",
     "memoCauseCode": "16",
@@ -55,7 +55,7 @@
     "FACJobStatusCode": "F",
     "OANNumber": "1138301",
     "outageStartDateTime": "1/18/2021 12:48:57 AM",
-    "versionDate": "1/18/2021 7:20:27 AM",
+    "versionDate": "1/18/2021 8:00:40 AM",
     "lastChangeDateTime": "1/18/2021 7:13:06 AM",
     "estimateCLUDateTime": "Not Available",
     "memoCauseCode": "16",
@@ -71,7 +71,7 @@
     "districtNumber": "34",
     "sectorNumber": "MIRALOMA",
     "ERTCode": "2",
-    "centroidX": "-117.572065922709",
-    "centroidY": "34.02604376532120"
+    "centroidX": "-117.572065701294",
+    "centroidY": "34.02604359120760"
   }
 ]
